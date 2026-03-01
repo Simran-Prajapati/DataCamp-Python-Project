@@ -44,7 +44,7 @@ pip install pandas numpy matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gdp-analysis.git
+https://github.com/Simran-Prajapati/DataCamp-Python-Project.git
 cd gdp-analysis
 ```
 
