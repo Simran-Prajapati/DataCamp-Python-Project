@@ -84,8 +84,8 @@ Perfect for:
 ## 👤 Author
 
 **Simran Prajapati**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/simranprajapati1267)
+- GitHub: [@Simran-Prajapati](https://github.com/Simran-Prajapati)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/simranprajapati1267)
 
 ## 🙏 Acknowledgments
 
